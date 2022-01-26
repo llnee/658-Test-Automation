@@ -13,7 +13,7 @@ public class BookInStockTest {
         isbn2 = "09-778-90-1929";
         price1 = 2.99;
         price2 = 3.50;
-        book = new BookInStock(isbn1, price1);;
+        book = new BookInStock(isbn1, price1);
     }
 
     @Test

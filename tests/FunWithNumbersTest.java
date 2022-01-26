@@ -6,7 +6,7 @@ public class FunWithNumbersTest {
     private int[] a1, a2, a3;
 
     @Before
-    public void setup() throws Exception {
+    public void setup() {
         a1 = new int[] {0, 1, 2, 4};
         a2 = new int[] {2, 4, 1, 4};
         a3 = new int[] {-3, 2, -9, 5};
