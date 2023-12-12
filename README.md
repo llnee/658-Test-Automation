@@ -1,4 +1,3 @@
 # 658-Test-Automation
-HW2 - Test Automation w/ JUnit
 
-Project was done for a graduate-level Testing course. Demonstartes use of JUNit.
+Project was done for a graduate-level testing course. Demonstrates use of JUNit for automated testing and simple Java classes.
